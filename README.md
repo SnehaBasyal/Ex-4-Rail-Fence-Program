@@ -1,4 +1,4 @@
-# Ex-4 Rail-Fence-Program
+# Ex-5 Rail-Fence-Program
 ## Name: Sneha Basyal M
 ## Reg no: 212222240101
 
